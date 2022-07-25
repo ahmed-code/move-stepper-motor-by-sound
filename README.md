@@ -11,10 +11,6 @@ you must use one of this words `left , right , يسار , يمين`
 
 
 
-<p align="">
-<a href="https://youtu.be/Y5kLeqTc6Zk">
-<img src="https://docs.simplefoc.com/extras/Images/youtube.png"  height="320px">
-</a>
-</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jiLBWxXWT1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
