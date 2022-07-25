@@ -12,7 +12,7 @@ you must use one of this words `left , right , يسار , يمين`
 
 ## Video
 <p align="center">
-<a target="_blank" href="https://www.youtube.com/watch?v=jiLBWxXWT1Y&ab_channel=ahmedalwafi" >
+<a  href="https://www.youtube.com/watch?v=jiLBWxXWT1Y&ab_channel=ahmedalwafi" target="_blank" rel="noopener noreferrer" >
 <img src="https://github.com/ahmed-code/move-stepper-motor-by-sound/blob/main/img.png"  height="320px">
 </a>
 </p>
