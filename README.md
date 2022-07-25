@@ -16,7 +16,3 @@ you must use one of this words `left , right , يسار , يمين`
 <img src="https://github.com/ahmed-code/move-stepper-motor-by-sound/blob/main/img.png"  height="320px">
 </a>
 </p>
-
-
-
-
