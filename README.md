@@ -1,11 +1,11 @@
-# move-stepper-motor-by-sound
+# move stepper motor by sound
 
 here you can move the stepper motor by sound
 
 ## the ESP32 and stepper motor simulation
-- you need to run this simulation https://wokwi.com/projects/338112696456053332
+- you need to run this simulation code https://wokwi.com/projects/338112696456053332 
 
-- then talking here https://speak-to-text.000webhostapp.com/  
+- then you can talking here https://speak-to-text.000webhostapp.com/  
 
 you must use one of this words `left , right , يسار , يمين`
 
@@ -17,5 +17,6 @@ you must use one of this words `left , right , يسار , يمين`
 </a>
 </p>
 
- 
+
+
 
