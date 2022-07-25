@@ -3,9 +3,11 @@
 here you can move the stepper motor by sound
 
 ## the ESP32 and stepper motor simulation
-https://wokwi.com/projects/338112696456053332
+you need to run this simulation https://wokwi.com/projects/338112696456053332
 
-if you say any of this words `left , right , يسار , يمين` on the website https://speak-to-text.000webhostapp.com/ the stepper motor will move 
+then you can move the stepper by talking here https://speak-to-text.000webhostapp.com/  
+you must use one of this words `left , right , يسار , يمين`
+
 
 
 <p align="">
