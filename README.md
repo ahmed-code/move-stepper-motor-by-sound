@@ -12,8 +12,8 @@ you must use one of this words `left , right , يسار , يمين`
 
 
 <p align="">
-<!-- <a href="https://youtu.be/Y5kLeqTc6Zk">
-<img src="https://docs.simplefoc.com/extras/Images/youtube.png"  height="320px"> -->
+<a href="https://www.youtube.com/watch?v=jiLBWxXWT1Y&ab_channel=ahmedalwafi">
+<img src="https://i.ytimg.com/an_webp/jiLBWxXWT1Y/mqdefault_6s.webp?du=3000&sqp=CILj95YG&rs=AOn4CLC2lcD_cKL404wdd89Y1vhQvyxLLQ"  height="320px">
 </a>
 </p>
 
