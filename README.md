@@ -1,5 +1,7 @@
 # move stepper motor by sound
 
+![image](https://user-images.githubusercontent.com/87250282/180929340-ded9823d-d43e-45e4-8582-cb28aeb7a0b3.png)
+
 here you can move the stepper motor by sound
 
 ## the ESP32 and stepper motor simulation
